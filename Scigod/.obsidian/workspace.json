@@ -4,29 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "036e8e452a3a1ee1",
+        "id": "9852ee62a4f0796a",
         "type": "tabs",
         "children": [
           {
-            "id": "22879b1d4d13d468",
+            "id": "5b5e98022401824b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "ba9257f302deb143",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "89b733f0a4ac7794",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sample.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -112,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sample.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sample.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sample.md"
+              }
             }
           },
           {
@@ -171,8 +165,19 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "9746f9f820002b37",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Sample.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -193,19 +198,19 @@
       "omnisearch:Omnisearch": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "github-sync:Sync with Remote": false
+      "darlal-switcher-plus:Open Symbols for the active editor": false
     }
   },
-  "active": "fd03e41441d713c7",
+  "active": "5b5e98022401824b",
   "lastOpenFiles": [
-    "Templates",
+    "Sample.md",
+    "99 - Templates",
     "Welcome.md",
-    "Files",
-    "Archive",
-    "Resources",
-    "Areas",
-    "Projects",
-    "Inbox"
+    "11 - Files",
+    "04 - Archive",
+    "03 - Resources",
+    "02 - Areas",
+    "01 - Projects",
+    "00 - Inbox"
   ]
 }

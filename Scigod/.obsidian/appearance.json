@@ -1,8 +1,13 @@
 {
   "accentColor": "",
-  "cssTheme": "Border",
-  "interfaceFontFamily": "0xProto Nerd Font",
-  "textFontFamily": "0xProto Nerd Font Propo",
-  "monospaceFontFamily": "0xProto Nerd Font Mono",
-  "baseFontSize": 14
+  "cssTheme": "Vanilla AMOLED",
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSize": 14,
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "Colored Sidebar Items",
+    "Notebook Backgrounds"
+  ]
 }
