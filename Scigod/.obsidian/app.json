@@ -1,0 +1,11 @@
+{
+  "showLineNumber": true,
+  "spellcheck": false,
+  "vimMode": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Files"
+}
