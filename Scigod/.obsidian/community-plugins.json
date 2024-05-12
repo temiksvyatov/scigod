@@ -17,5 +17,12 @@
   "calendar",
   "cm-editor-syntax-highlight-obsidian",
   "note-refactor-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-icon-folder",
+  "homepage",
+  "obsidian-completr",
+  "obsidian-smart-typography",
+  "obsidian-text-format",
+  "settings-search",
+  "tag-wrangler"
 ]

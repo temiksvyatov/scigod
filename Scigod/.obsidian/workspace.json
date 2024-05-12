@@ -81,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -159,14 +158,6 @@
             }
           },
           {
-            "id": "5afab736a9fce323",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
             "id": "9746f9f820002b37",
             "type": "leaf",
             "state": {
@@ -175,14 +166,21 @@
                 "file": "Sample.md"
               }
             }
+          },
+          {
+            "id": "5afab736a9fce323",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 309.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,17 +194,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "file-tree-alternative:File Tree Alternative Plugin": true,
       "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "zk-prefixer:Create new unique note": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "5b5e98022401824b",
+  "active": "6043bf69d0db6c53",
   "lastOpenFiles": [
+    "99 - Meta/00 - Templates",
+    "06 - Daily",
     "Sample.md",
-    "99 - Templates",
+    "99 - Meta",
     "Welcome.md",
-    "11 - Files",
+    "99 - Meta/11 - Files",
     "04 - Archive",
     "03 - Resources",
     "02 - Areas",

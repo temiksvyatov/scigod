@@ -1,0 +1,44 @@
+{
+  "settings": {
+    "migrated": 5,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "BoBxFile",
+      "BoBxText",
+      "BoBxMessageAltError",
+      "FabDailymotion",
+      "BoBxArchive"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "debugMode": false
+  },
+  "00 - Inbox": "BoBxsInbox",
+  "01 - Projects": "BoBxListCheck",
+  "02 - Areas": "BoBxArea",
+  "03 - Resources": "BoBxData",
+  "04 - Archive": "BoBxArchive",
+  "99 - Meta": "BoBxMessageAltError",
+  "99 - Meta/00 - Templates": "BoBxText",
+  "99 - Meta/11 - Files": "BoBxFile",
+  "06 - Daily": "FabDailymotion"
+}
