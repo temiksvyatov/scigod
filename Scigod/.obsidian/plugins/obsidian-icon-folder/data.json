@@ -25,6 +25,13 @@
         "icon": "BoBxsPencil",
         "for": "everything",
         "order": 1
+      },
+      {
+        "rule": "Tips",
+        "icon": "BoBxListCheck",
+        "for": "everything",
+        "order": 2,
+        "useFilePath": true
       }
     ],
     "extraMargin": {
