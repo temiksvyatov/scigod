@@ -1,4 +1,5 @@
 {
   "folder": "/",
-  "format": "YYYYMMDDHHmm"
+  "format": "YYYYMMDDHHmm",
+  "template": "99 - Meta/00 - Templates/Default Template"
 }
