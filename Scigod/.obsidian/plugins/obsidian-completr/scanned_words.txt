@@ -39,3 +39,4 @@ NOTE
 file
 pen
 page
+Obsidian

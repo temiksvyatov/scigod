@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Meta/00 - Templates/Default Template.md",
+                "file": "06 - Daily/202405131042.md",
                 "mode": "source",
                 "source": true
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "99 - Meta/00 - Templates/Default Template.md"
+                "file": "06 - Daily/202405131042.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 - Meta/00 - Templates/Default Template.md",
+                "file": "06 - Daily/202405131042.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99 - Meta/00 - Templates/Default Template.md",
+                "file": "06 - Daily/202405131042.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 - Meta/00 - Templates/Default Template.md"
+                "file": "06 - Daily/202405131042.md"
               }
             }
           }
@@ -186,7 +186,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,7 +199,7 @@
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false,
+      "omnisearch:Omnisearch": true,
       "file-tree-alternative:File Tree Alternative Plugin": true,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
@@ -209,12 +209,16 @@
   },
   "active": "f677941f7fd14464",
   "lastOpenFiles": [
-    "202405131114.md",
-    "99 - Meta/00 - Templates/Default Template.md",
-    "202405131041.md",
-    "06 - Daily/202405131042.md",
-    "99 - Meta/00 - Templates/Daily Log.md",
     "00 - MOC/Home.md",
+    "06 - Daily/202405131141.md",
+    "06 - Daily/202405131042.md",
+    "202405131127.md",
+    "02 - Areas/VVDEV",
+    "99 - Meta/00 - Templates/Default Template.md",
+    "202405131116.md",
+    "202405131114.md",
+    "202405131041.md",
+    "99 - Meta/00 - Templates/Daily Log.md",
     "06 - Daily/202405130921.md",
     "06 - Daily/202405130913.md",
     "06 - Daily/202405130909.md",
@@ -229,7 +233,6 @@
     "99 - Meta/11 - Files",
     "07 - Archives",
     "03 - Resources",
-    "02 - Areas",
-    "01 - Projects"
+    "02 - Areas"
   ]
 }

@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Default Template",
-      "path": "99 - Meta/00 - Templates/Default Template.md"
-    },
-    {
       "basename": "202405131042",
       "path": "06 - Daily/202405131042.md"
     },
     {
-      "basename": "Daily Log",
-      "path": "99 - Meta/00 - Templates/Daily Log.md"
-    },
-    {
       "basename": "Home",
       "path": "00 - MOC/Home.md"
+    },
+    {
+      "basename": "Default Template",
+      "path": "99 - Meta/00 - Templates/Default Template.md"
+    },
+    {
+      "basename": "Daily Log",
+      "path": "99 - Meta/00 - Templates/Daily Log.md"
     }
   ],
   "omittedPaths": [],
