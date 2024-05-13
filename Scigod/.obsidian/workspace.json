@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f255841ab495806d",
+            "id": "71a676ff44c7a6c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -81,13 +81,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 216.5
   },
   "right": {
     "id": "3ab923e6dc813e33",
@@ -183,7 +181,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,9 +208,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f255841ab495806d",
+  "active": "71a676ff44c7a6c5",
   "lastOpenFiles": [
+    "202405132148Tips for submitting the code.md",
     "202405132036 Code Review Tips.md",
+    "202405132148Tips for reviewing the code.md",
+    "Tips for reviewing the code.md",
+    "Tips for submitting the code.md",
     "202405131206 CUV - Sliders - Review.md",
     "202405131627.md",
     "202405131332.md",
