@@ -17,6 +17,10 @@
     {
       "folder": "06 - Daily",
       "template": "99 - Meta/00 - Templates/Daily Log.md"
+    },
+    {
+      "folder": "99 - Meta/00 - Templates",
+      "template": "99 - Meta/00 - Templates/Default Template.md"
     }
   ],
   "syntax_highlighting": true,

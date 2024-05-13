@@ -8,14 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9162a0f29227064c",
+            "id": "f677941f7fd14464",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - MOC/Home.md",
+                "file": "99 - Meta/00 - Templates/Default Template.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "685ab42d7365b739",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e31a299b6c570a7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99 - Meta/00 - Templates/Daily Log.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -101,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - MOC/Home.md",
+                "file": "99 - Meta/00 - Templates/Default Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - MOC/Home.md",
+                "file": "99 - Meta/00 - Templates/Default Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +171,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 - MOC/Home.md"
+                "file": "99 - Meta/00 - Templates/Default Template.md"
               }
             }
           },
@@ -178,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - MOC/Home.md"
+                "file": "99 - Meta/00 - Templates/Default Template.md"
               }
             }
           }
@@ -207,11 +225,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6043bf69d0db6c53",
+  "active": "f677941f7fd14464",
   "lastOpenFiles": [
     "99 - Meta/00 - Templates/Daily Log.md",
-    "06 - Daily/202405130921.md",
+    "99 - Meta/00 - Templates/Default Template.md",
     "00 - MOC/Home.md",
+    "06 - Daily/202405130921.md",
     "06 - Daily/202405130913.md",
     "06 - Daily/202405130909.md",
     "Untitled.md",

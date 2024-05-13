@@ -9,6 +9,7 @@ tags
 th
 be
 borders
+black
 sure
 everything
 is
@@ -19,6 +20,7 @@ date
 daily
 dddd
 now
+neutral
 DD
 Daily
 DAILY
@@ -30,7 +32,10 @@ May
 YYYY
 HH
 mm
+manila
 Log
 log
 NOTE
 file
+pen
+page

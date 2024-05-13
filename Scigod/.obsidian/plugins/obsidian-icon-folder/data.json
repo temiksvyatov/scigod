@@ -19,6 +19,12 @@
         "icon": "BoBxsNote",
         "for": "everything",
         "order": 0
+      },
+      {
+        "rule": "Default",
+        "icon": "BoBxsPencil",
+        "for": "everything",
+        "order": 1
       }
     ],
     "extraMargin": {
