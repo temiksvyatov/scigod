@@ -5,6 +5,7 @@ tags:
   - Daily/Log
 cssclasses:
   - daily
+  - image-borders
   - log
   - <% tp.date.now("dddd") %>
 ---
@@ -12,3 +13,4 @@ cssclasses:
 ## <% tp.date.now("dddd, MMMM Do, YYYY") %>
 ---
 ### Journal
+#### <% tp.file.cursor() %>

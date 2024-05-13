@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "202405130913",
-      "path": "06 - Daily/202405130913.md"
-    },
-    {
-      "basename": "Sample",
-      "path": "Sample.md"
-    },
-    {
       "basename": "Home",
-      "path": "Home.md"
+      "path": "00 - MOC/Home.md"
+    },
+    {
+      "basename": "Daily Log",
+      "path": "99 - Meta/00 - Templates/Daily Log.md"
+    },
+    {
+      "basename": "202405130921",
+      "path": "06 - Daily/202405130921.md"
     }
   ],
   "omittedPaths": [],

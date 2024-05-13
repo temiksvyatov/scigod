@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c0b0fdeed29ddde5",
+        "id": "7aa3d9265d89b70b",
         "type": "tabs",
         "children": [
           {
-            "id": "1067011765a24757",
+            "id": "9162a0f29227064c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/202405130913.md",
+                "file": "00 - MOC/Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Daily/202405130913.md",
+                "file": "00 - MOC/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Daily/202405130913.md",
+                "file": "00 - MOC/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "06 - Daily/202405130913.md"
+                "file": "00 - MOC/Home.md"
               }
             }
           },
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Daily/202405130913.md"
+                "file": "00 - MOC/Home.md"
               }
             }
           }
@@ -207,12 +207,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1067011765a24757",
+  "active": "6043bf69d0db6c53",
   "lastOpenFiles": [
-    "Sample.md",
+    "99 - Meta/00 - Templates/Daily Log.md",
+    "06 - Daily/202405130921.md",
+    "00 - MOC/Home.md",
     "06 - Daily/202405130913.md",
     "06 - Daily/202405130909.md",
-    "Home.md",
     "Untitled.md",
     "202.md",
     "05 - Fleeting",
