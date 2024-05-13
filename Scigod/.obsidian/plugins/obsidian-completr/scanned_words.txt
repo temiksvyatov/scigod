@@ -12,6 +12,7 @@ borders
 black
 sure
 everything
+everyone
 is
 image
 alright
@@ -31,8 +32,10 @@ Monday
 May
 YYYY
 HH
+Hello
 mm
 manila
+minecraft
 Log
 log
 NOTE
