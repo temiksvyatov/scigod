@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/202405131042.md",
+                "file": "99 - Meta/00 - Templates/Default Template.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -115,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "06 - Daily/202405131042.md"
+                "file": "99 - Meta/00 - Templates/Default Template.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Daily/202405131042.md",
+                "file": "99 - Meta/00 - Templates/Default Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Daily/202405131042.md",
+                "file": "99 - Meta/00 - Templates/Default Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Daily/202405131042.md"
+                "file": "99 - Meta/00 - Templates/Default Template.md"
               }
             }
           }
@@ -209,9 +209,10 @@
   },
   "active": "f677941f7fd14464",
   "lastOpenFiles": [
+    "202405131114.md",
+    "99 - Meta/00 - Templates/Default Template.md",
     "202405131041.md",
     "06 - Daily/202405131042.md",
-    "99 - Meta/00 - Templates/Default Template.md",
     "99 - Meta/00 - Templates/Daily Log.md",
     "00 - MOC/Home.md",
     "06 - Daily/202405130921.md",
