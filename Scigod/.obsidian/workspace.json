@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202405131627.md",
+                "file": "202405131206 CUV - Sliders - Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"aliases\"]",
+                "query": "tag:#vvdev ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -115,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "202405131627.md"
+                "file": "202405131206 CUV - Sliders - Review.md"
               }
             }
           },
@@ -148,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202405131627.md",
+                "file": "202405131206 CUV - Sliders - Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202405131627.md",
+                "file": "202405131206 CUV - Sliders - Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202405131627.md"
+                "file": "202405131206 CUV - Sliders - Review.md"
               }
             }
           }
@@ -208,8 +209,8 @@
   },
   "active": "f255841ab495806d",
   "lastOpenFiles": [
-    "202405131206 CUV - Sliders - Review.md",
     "202405131627.md",
+    "202405131206 CUV - Sliders - Review.md",
     "202405131332.md",
     "06 - Daily/202405131042.md",
     "00 - MOC/Home.md",
