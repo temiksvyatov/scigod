@@ -43,5 +43,14 @@
       "key": "N"
     }
   ],
-  "file-explorer:new-file": []
+  "file-explorer:new-file": [],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ]
 }
