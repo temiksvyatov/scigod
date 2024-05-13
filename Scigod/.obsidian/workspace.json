@@ -11,8 +11,12 @@
             "id": "f255841ab495806d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "202405131332.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -110,7 +114,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "202405131332.md"
+              }
             }
           },
           {
@@ -142,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "202405131332.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,6 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "202405131332.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "202405131332.md"
+              }
             }
           }
         ]
@@ -198,6 +208,7 @@
   },
   "active": "f255841ab495806d",
   "lastOpenFiles": [
+    "202405131332.md",
     "202405131206.md",
     "06 - Daily/202405131042.md",
     "00 - MOC/Home.md",
