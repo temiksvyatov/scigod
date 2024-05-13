@@ -1,5 +1,6 @@
 cssclasses
 cursor
+cuv
 Just
 Journal
 to
@@ -11,12 +12,17 @@ be
 borders
 black
 sure
+stories
+slider
 everything
 everyone
 is
 image
+id
 alright
 Something
+Stories
+Sliders
 date
 daily
 dddd
@@ -42,5 +48,9 @@ NOTE
 file
 pen
 page
+par
 Obsidian
 Temp
+vvdev
+gleb
+review
