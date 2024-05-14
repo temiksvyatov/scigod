@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Fleeting/202405131206 CUV - Sliders - Review.md",
-                "mode": "source",
+                "file": "06 - Daily/202405140828.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -116,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "05 - Fleeting/202405131206 CUV - Sliders - Review.md"
+                "file": "06 - Daily/202405140828.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "05 - Fleeting/202405131206 CUV - Sliders - Review.md",
+                "file": "06 - Daily/202405140828.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 - Fleeting/202405131206 CUV - Sliders - Review.md",
+                "file": "06 - Daily/202405140828.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 - Fleeting/202405131206 CUV - Sliders - Review.md"
+                "file": "06 - Daily/202405140828.md"
               }
             }
           }
@@ -211,10 +211,10 @@
   },
   "active": "430e4f712412472f",
   "lastOpenFiles": [
-    "03 - Resources/202405132036 Code Review Tips.md",
     "00 - MOC/Home.md",
-    "06 - Daily/202405140828.md",
     "05 - Fleeting/202405131206 CUV - Sliders - Review.md",
+    "03 - Resources/202405132036 Code Review Tips.md",
+    "06 - Daily/202405140828.md",
     "05 - Fleeting/202405131154 Git - Stash.md",
     "Untitled.canvas",
     "202405132148Tips for submitting the code.md",
