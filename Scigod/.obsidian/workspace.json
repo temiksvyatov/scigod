@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/202405140828.md",
-                "mode": "preview",
+                "file": "05 - Fleeting/202405141400 Pipeline - Yandex Registry Issues.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -81,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -116,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "06 - Daily/202405140828.md"
+                "file": "05 - Fleeting/202405141400 Pipeline - Yandex Registry Issues.md"
               }
             }
           },
@@ -149,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Daily/202405140828.md",
+                "file": "05 - Fleeting/202405141400 Pipeline - Yandex Registry Issues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Daily/202405140828.md",
+                "file": "05 - Fleeting/202405141400 Pipeline - Yandex Registry Issues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Daily/202405140828.md"
+                "file": "05 - Fleeting/202405141400 Pipeline - Yandex Registry Issues.md"
               }
             }
           }
@@ -211,10 +210,12 @@
   },
   "active": "430e4f712412472f",
   "lastOpenFiles": [
+    "202405141405mark style=background FF5582A6;Problemmark.md",
+    "06 - Daily/202405140828.md",
+    "05 - Fleeting/202405141400 Pipeline - Yandex Registry Issues.md",
     "00 - MOC/Home.md",
     "05 - Fleeting/202405131206 CUV - Sliders - Review.md",
     "03 - Resources/202405132036 Code Review Tips.md",
-    "06 - Daily/202405140828.md",
     "05 - Fleeting/202405131154 Git - Stash.md",
     "Untitled.canvas",
     "202405132148Tips for submitting the code.md",
@@ -242,7 +243,6 @@
     "99 - Meta/00 - Templates",
     "06 - Daily",
     "99 - Meta",
-    "Welcome.md",
     "99 - Meta/11 - Files",
     "07 - Archives",
     "03 - Resources",
