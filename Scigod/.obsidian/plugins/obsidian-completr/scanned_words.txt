@@ -56,6 +56,7 @@ by
 based
 bottle
 better
+both
 sure
 stories
 slider
@@ -79,6 +80,7 @@ sends
 should
 subjective
 stash
+suggestions
 everything
 everyone
 encrypted
@@ -115,6 +117,8 @@ approve
 aware
 approved
 any
+agree
+answers
 Something
 Stories
 Sliders
@@ -135,6 +139,9 @@ decition
 disapprove
 decide
 discuss
+disagree
+describing
+disagreement
 now
 neutral
 nightamre
@@ -178,6 +185,7 @@ link
 leave
 list
 live
+left
 NOTE
 NOT
 Notion
@@ -239,6 +247,7 @@ reciever
 rules
 requirements
 rewritten
+reason
 Code
 Comment
 Comments
@@ -250,6 +259,7 @@ origin
 only
 other
 offline
+okay
 FFA
 when
 will
@@ -274,17 +284,20 @@ keep
 knows
 Reviewer
 your
+you
 updates
 unceartin
 usability
 usefull
 It
 In
+If
 Better
 happend
 height
 have
 Ask
+Additional
 questions
 just
 Git

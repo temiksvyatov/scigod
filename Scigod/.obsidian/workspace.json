@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - MOC/Home.md",
+                "file": "05 - Fleeting/202405131206 CUV - Sliders - Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 - MOC/Home.md"
+                "file": "05 - Fleeting/202405131206 CUV - Sliders - Review.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - MOC/Home.md",
+                "file": "05 - Fleeting/202405131206 CUV - Sliders - Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - MOC/Home.md",
+                "file": "05 - Fleeting/202405131206 CUV - Sliders - Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - MOC/Home.md"
+                "file": "05 - Fleeting/202405131206 CUV - Sliders - Review.md"
               }
             }
           }
@@ -211,12 +211,12 @@
   },
   "active": "430e4f712412472f",
   "lastOpenFiles": [
+    "03 - Resources/202405132036 Code Review Tips.md",
+    "00 - MOC/Home.md",
     "06 - Daily/202405140828.md",
     "05 - Fleeting/202405131206 CUV - Sliders - Review.md",
     "05 - Fleeting/202405131154 Git - Stash.md",
-    "00 - MOC/Home.md",
     "Untitled.canvas",
-    "03 - Resources/202405132036 Code Review Tips.md",
     "202405132148Tips for submitting the code.md",
     "202405132148Tips for reviewing the code.md",
     "Tips for reviewing the code.md",
