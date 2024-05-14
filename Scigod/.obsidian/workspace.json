@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202405131206 CUV - Sliders - Review.md",
-                "mode": "source",
+                "file": "00 - MOC/Home.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -115,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "202405131206 CUV - Sliders - Review.md"
+                "file": "00 - MOC/Home.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202405131206 CUV - Sliders - Review.md",
+                "file": "00 - MOC/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202405131206 CUV - Sliders - Review.md",
+                "file": "00 - MOC/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202405131206 CUV - Sliders - Review.md"
+                "file": "00 - MOC/Home.md"
               }
             }
           }
@@ -210,8 +210,11 @@
   },
   "active": "cdffb9ec6b614bf6",
   "lastOpenFiles": [
+    "06 - Daily/202405140828.md",
+    "05 - Fleeting/202405131206 CUV - Sliders - Review.md",
+    "05 - Fleeting/202405131154 Git - Stash.md",
+    "00 - MOC/Home.md",
     "Untitled.canvas",
-    "202405131206 CUV - Sliders - Review.md",
     "03 - Resources/202405132036 Code Review Tips.md",
     "202405132148Tips for submitting the code.md",
     "202405132148Tips for reviewing the code.md",
@@ -220,8 +223,6 @@
     "202405131627.md",
     "202405131332.md",
     "06 - Daily/202405131042.md",
-    "00 - MOC/Home.md",
-    "05 - Fleeting/202405131154 Git - Stash.md",
     "06 - Daily/202405131141.md",
     "202405131127.md",
     "02 - Areas/VVDEV",

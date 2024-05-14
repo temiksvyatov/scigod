@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Home",
+      "path": "00 - MOC/Home.md"
+    },
+    {
+      "basename": "202405140828",
+      "path": "06 - Daily/202405140828.md"
+    },
+    {
       "basename": "202405131206 CUV - Sliders - Review",
-      "path": "202405131206 CUV - Sliders - Review.md"
+      "path": "05 - Fleeting/202405131206 CUV - Sliders - Review.md"
+    },
+    {
+      "basename": "202405131154 Git - Stash",
+      "path": "05 - Fleeting/202405131154 Git - Stash.md"
     },
     {
       "basename": "202405132036 Code Review Tips",
@@ -11,14 +23,6 @@
     {
       "basename": "202405131042",
       "path": "06 - Daily/202405131042.md"
-    },
-    {
-      "basename": "Home",
-      "path": "00 - MOC/Home.md"
-    },
-    {
-      "basename": "202405131154 Git - Stash",
-      "path": "05 - Fleeting/202405131154 Git - Stash.md"
     },
     {
       "basename": "Default Template",
