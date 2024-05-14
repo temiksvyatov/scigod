@@ -11,12 +11,8 @@
             "id": "1c6e536f70533514",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "202405141708 Cricket API.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.5,
-    "collapsed": true
+    "width": 277.5
   },
   "right": {
     "id": "3ab923e6dc813e33",
@@ -116,7 +111,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "202405141708 Cricket API.md"
+                "file": "202405141405mark style=background FF5582A6;Problemmark.md"
               }
             }
           },
@@ -149,7 +144,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202405141708 Cricket API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +155,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202405141708 Cricket API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202405141708 Cricket API.md"
+                "file": "202405141405mark style=background FF5582A6;Problemmark.md"
               }
             }
           }
@@ -209,7 +202,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1c6e536f70533514",
+  "active": "6043bf69d0db6c53",
   "lastOpenFiles": [
     "202405141708 Cricket API.md",
     "05 - Fleeting/202405141400 Pipeline - Yandex Registry Issues.md",

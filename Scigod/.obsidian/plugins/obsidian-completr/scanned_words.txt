@@ -41,6 +41,7 @@ title
 threads
 things
 together
+technical
 be
 borders
 black
@@ -97,6 +98,7 @@ implementation
 iframe
 important
 into
+issues
 alright
 also
 achieve
@@ -147,6 +149,7 @@ discuss
 disagree
 describing
 disagreement
+due
 now
 neutral
 nightamre
@@ -165,6 +168,7 @@ MR
 YYYY
 YouTube
 You
+Yandex
 HH
 Hello
 mm
@@ -224,6 +228,7 @@ paragraphs
 play
 ping
 pong
+problem
 Obsidian
 ONLY
 One
@@ -274,6 +279,7 @@ other
 offline
 okay
 FFA
+FF
 when
 will
 written
@@ -293,10 +299,12 @@ PIA
 PR
 Point
 POV
+Problem
 keep
 knows
 Reviewer
 Research
+Registry
 your
 you
 updates
