@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "202405151049",
+      "path": "06 - Daily/202405151049.md"
+    },
+    {
+      "basename": "Daily Log",
+      "path": "99 - Meta/00 - Templates/Daily Log.md"
+    },
+    {
       "basename": "202405141400 Pipeline - Yandex Registry Issues",
       "path": "05 - Fleeting/202405141400 Pipeline - Yandex Registry Issues.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "Default Template",
       "path": "99 - Meta/00 - Templates/Default Template.md"
-    },
-    {
-      "basename": "Daily Log",
-      "path": "99 - Meta/00 - Templates/Daily Log.md"
     }
   ],
   "omittedPaths": [],

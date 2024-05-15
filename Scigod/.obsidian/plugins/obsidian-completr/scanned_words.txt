@@ -42,6 +42,7 @@ threads
 things
 together
 technical
+today
 be
 borders
 black
@@ -331,3 +332,4 @@ Git
 Video
 VVDEV
 England
+Wednesday

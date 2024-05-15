@@ -13,4 +13,6 @@ cssclasses:
 ## <% tp.date.now("dddd, MMMM Do, YYYY") %>
 ---
 ### Journal
-#### <% tp.file.cursor() %>
+#### <% tp.date.now("HH:mm") %>
+Tasks for today:
+- [ ] <% tp.file.cursor() %>
