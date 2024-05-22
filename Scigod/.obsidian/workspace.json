@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202405221159 Глеб - Обучение.md",
+                "file": "06 - Daily/202405221357.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "202405221159 Глеб - Обучение.md"
+                "file": "06 - Daily/202405221357.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202405221159 Глеб - Обучение.md",
+                "file": "06 - Daily/202405221357.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202405221159 Глеб - Обучение.md",
+                "file": "06 - Daily/202405221357.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202405221159 Глеб - Обучение.md"
+                "file": "06 - Daily/202405221357.md"
               }
             }
           }
@@ -211,8 +211,9 @@
   },
   "active": "4ffdcb85fb185e6d",
   "lastOpenFiles": [
-    "00 - MOC/Home.md",
     "202405221159 Глеб - Обучение.md",
+    "06 - Daily/202405221357.md",
+    "00 - MOC/Home.md",
     "06 - Daily/202405161034.md",
     "99 - Meta/00 - Templates/Daily Log.md",
     "06 - Daily/202405151049.md",
@@ -238,7 +239,6 @@
     "99 - Meta/00 - Templates/Default Template.md",
     "202405131116.md",
     "202405131114.md",
-    "202405131041.md",
     "05 - Fleeting",
     "04 - Permanent",
     "99 - Meta/00 - Templates",
