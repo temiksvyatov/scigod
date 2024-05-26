@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202405241045 Траты за лето - Рассчеты.md",
+                "file": "202405261331 Docker Compose - Replicas.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "202405241045 Траты за лето - Рассчеты.md"
+                "file": "202405261331 Docker Compose - Replicas.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202405241045 Траты за лето - Рассчеты.md",
+                "file": "202405261331 Docker Compose - Replicas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202405241045 Траты за лето - Рассчеты.md",
+                "file": "202405261331 Docker Compose - Replicas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202405241045 Траты за лето - Рассчеты.md"
+                "file": "202405261331 Docker Compose - Replicas.md"
               }
             }
           }
@@ -211,8 +211,10 @@
   },
   "active": "4ffdcb85fb185e6d",
   "lastOpenFiles": [
-    "06 - Daily/202405221357.md",
+    "202405261311 Диплом - Материалы для документа.md",
+    "202405261331 Docker Compose - Replicas.md",
     "202405241045 Траты за лето - Рассчеты.md",
+    "06 - Daily/202405221357.md",
     "202405221159 Глеб - Обучение.md",
     "00 - MOC/Home.md",
     "06 - Daily/202405161034.md",
@@ -237,8 +239,6 @@
     "06 - Daily/202405131141.md",
     "202405131127.md",
     "02 - Areas/VVDEV",
-    "99 - Meta/00 - Templates/Default Template.md",
-    "202405131116.md",
     "05 - Fleeting",
     "04 - Permanent",
     "99 - Meta/00 - Templates",
