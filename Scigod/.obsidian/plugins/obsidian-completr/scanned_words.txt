@@ -23,6 +23,7 @@ conversation
 case
 chatting
 cmd
+compose
 Just
 Journal
 to
@@ -84,10 +85,12 @@ should
 subjective
 stash
 suggestions
+session
 everything
 everyone
 encrypted
 explicit
+email
 is
 image
 id
@@ -134,6 +137,8 @@ So
 Suggest
 Set
 South
+Scaleo
+StaffAPI
 date
 daily
 dddd
@@ -151,6 +156,9 @@ disagree
 describing
 disagreement
 due
+docker
+dev
+devops
 now
 neutral
 nightamre
@@ -161,6 +169,7 @@ DD
 Daily
 DAILY
 Do
+DELETE
 MM
 MMMM
 Monday
@@ -185,6 +194,7 @@ media
 may
 make
 meet
+membership
 Log
 Leave
 Leagues
@@ -230,6 +240,8 @@ play
 ping
 pong
 problem
+pepper
+partners
 Obsidian
 ONLY
 One
@@ -243,6 +255,7 @@ They
 There
 Tuesday
 Tasks
+TNG
 vvdev
 video
 views
@@ -265,6 +278,7 @@ requirements
 rewritten
 reason
 research
+redirect
 Code
 Comment
 Comments
@@ -301,6 +315,7 @@ PR
 Point
 POV
 Problem
+PUT
 keep
 knows
 Reviewer
@@ -329,6 +344,7 @@ Africa
 questions
 just
 Git
+GuestAPI
 Video
 VVDEV
 England
