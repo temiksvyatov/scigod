@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f1d1848af50579b0",
+        "id": "49d9103e75a8a9f6",
         "type": "tabs",
         "children": [
           {
-            "id": "4ffdcb85fb185e6d",
+            "id": "5671e9b130569e39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202405261331 Docker Compose - Replicas.md",
+                "file": "06 - Daily/202405270942.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "202405261331 Docker Compose - Replicas.md"
+                "file": "06 - Daily/202405270942.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202405261331 Docker Compose - Replicas.md",
+                "file": "06 - Daily/202405270942.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202405261331 Docker Compose - Replicas.md",
+                "file": "06 - Daily/202405270942.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202405261331 Docker Compose - Replicas.md"
+                "file": "06 - Daily/202405270942.md"
               }
             }
           }
@@ -209,10 +209,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4ffdcb85fb185e6d",
+  "active": "5671e9b130569e39",
   "lastOpenFiles": [
-    "202405261311 Диплом - Материалы для документа.md",
+    "06 - Daily/202405270942.md",
+    "202405270942.md",
     "202405261331 Docker Compose - Replicas.md",
+    "202405261311 Диплом - Материалы для документа.md",
     "202405241045 Траты за лето - Рассчеты.md",
     "06 - Daily/202405221357.md",
     "202405221159 Глеб - Обучение.md",
@@ -236,8 +238,6 @@
     "202405131627.md",
     "202405131332.md",
     "06 - Daily/202405131042.md",
-    "06 - Daily/202405131141.md",
-    "202405131127.md",
     "02 - Areas/VVDEV",
     "05 - Fleeting",
     "04 - Permanent",
