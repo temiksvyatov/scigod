@@ -180,6 +180,7 @@ DAILY
 Do
 DELETE
 Docker
+Dockerfile
 MM
 MMMM
 Monday
@@ -210,6 +211,7 @@ Log
 Leave
 Leagues
 Leadues
+Linux
 log
 less
 lines
@@ -301,6 +303,8 @@ Comments
 Complete
 Country
 Compose
+CI
+CD
 of
 or
 on
@@ -361,10 +365,13 @@ Additional
 Add
 API
 Africa
+Alpine
 questions
 just
 Git
 GuestAPI
+Gitlab
+GitLab
 Video
 VVDEV
 England
