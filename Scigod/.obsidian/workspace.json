@@ -6,7 +6,7 @@
       {
         "id": "49d9103e75a8a9f6",
         "type": "tabs",
-        "dimension": 23.028785982478098,
+        "dimension": 44.55569461827284,
         "children": [
           {
             "id": "5671e9b130569e39",
@@ -25,7 +25,7 @@
       {
         "id": "b3ab00dcf7cecb29",
         "type": "tabs",
-        "dimension": 76.9712140175219,
+        "dimension": 55.444305381727155,
         "children": [
           {
             "id": "e1af48a80a09fe35",
@@ -136,7 +136,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "202405271527 Оптимизация процессов.md"
+                "file": "06 - Daily/202405270942.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202405271527 Оптимизация процессов.md",
+                "file": "06 - Daily/202405270942.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202405271527 Оптимизация процессов.md",
+                "file": "06 - Daily/202405270942.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202405271527 Оптимизация процессов.md"
+                "file": "06 - Daily/202405270942.md"
               }
             }
           }
@@ -229,12 +229,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e1af48a80a09fe35",
+  "active": "5671e9b130569e39",
   "lastOpenFiles": [
-    "06 - Daily/202405270942.md",
     "202405271527 Оптимизация процессов.md",
-    "202405270942.md",
     "202405261331 Docker Compose - Replicas.md",
+    "06 - Daily/202405270942.md",
+    "202405270942.md",
     "202405261311 Диплом - Материалы для документа.md",
     "202405241045 Траты за лето - Рассчеты.md",
     "06 - Daily/202405221357.md",
