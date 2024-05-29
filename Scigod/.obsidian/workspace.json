@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "49d9103e75a8a9f6",
+        "id": "dddda850dbe4fc03",
         "type": "tabs",
         "children": [
           {
-            "id": "5671e9b130569e39",
+            "id": "581fef49cb0ea8e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/202405280949.md",
+                "file": "202405291312.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "06 - Daily/202405280949.md"
+                "file": "202405291312.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 - Daily/202405280949.md",
+                "file": "202405291312.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 - Daily/202405280949.md",
+                "file": "202405291312.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 - Daily/202405280949.md"
+                "file": "202405291312.md"
               }
             }
           }
@@ -209,8 +209,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5671e9b130569e39",
+  "active": "581fef49cb0ea8e0",
   "lastOpenFiles": [
+    "00 - MOC/Home.md",
+    "202405291312.md",
     "06 - Daily/202405270942.md",
     "06 - Daily/202405280949.md",
     "202405261331 Docker Compose - Replicas.md",
@@ -220,7 +222,6 @@
     "202405241045 Траты за лето - Рассчеты.md",
     "06 - Daily/202405221357.md",
     "202405221159 Глеб - Обучение.md",
-    "00 - MOC/Home.md",
     "06 - Daily/202405161034.md",
     "99 - Meta/00 - Templates/Daily Log.md",
     "06 - Daily/202405151049.md",
@@ -237,7 +238,6 @@
     "202405132148Tips for reviewing the code.md",
     "Tips for reviewing the code.md",
     "Tips for submitting the code.md",
-    "202405131627.md",
     "02 - Areas/VVDEV",
     "05 - Fleeting",
     "04 - Permanent",
