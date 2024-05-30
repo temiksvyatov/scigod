@@ -112,6 +112,8 @@ issues
 ignored
 if
 issue
+italian
+ifabrics
 alright
 also
 achieve
@@ -150,6 +152,7 @@ South
 Scaleo
 StaffAPI
 Solution
+SERVER
 date
 daily
 dddd
@@ -171,6 +174,7 @@ docker
 dev
 devops
 develop
+default
 now
 neutral
 nightamre
@@ -186,6 +190,7 @@ Do
 DELETE
 Docker
 Dockerfile
+DEV
 MM
 MMMM
 Monday
@@ -241,6 +246,8 @@ feedback
 folder
 feature
 failure
+fabrics
+front
 pen
 page
 par
@@ -279,6 +286,7 @@ There
 Tuesday
 Tasks
 TNG
+Thursday
 vvdev
 video
 views
@@ -360,6 +368,7 @@ unceartin
 usability
 usefull
 using
+uspect
 It
 In
 If
@@ -371,12 +380,14 @@ BBFABBA
 happend
 height
 have
+home
 Ask
 Additional
 Add
 API
 Africa
 Alpine
+All
 questions
 just
 Git
@@ -386,4 +397,5 @@ GitLab
 Video
 VVDEV
 England
+ENDPOINT
 Wednesday
