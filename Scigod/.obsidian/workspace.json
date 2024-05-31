@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - MOC/Home.md",
+                "file": "03 - Resources/202405132036 Code Review Tips.md",
                 "mode": "preview",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 - MOC/Home.md"
+                "file": "03 - Resources/202405132036 Code Review Tips.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 - MOC/Home.md",
+                "file": "03 - Resources/202405132036 Code Review Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - MOC/Home.md",
+                "file": "03 - Resources/202405132036 Code Review Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - MOC/Home.md"
+                "file": "03 - Resources/202405132036 Code Review Tips.md"
               }
             }
           }
@@ -210,6 +210,7 @@
   },
   "active": "f4748645c2c6ded4",
   "lastOpenFiles": [
+    "00 - MOC/Home.md",
     "06 - Daily/202405140828.md",
     "06 - Daily/202405131042.md",
     "02 - Areas/VVDEV/202405141400 Pipeline - Yandex Registry Issues.md",
@@ -221,7 +222,6 @@
     "202405301103.md",
     "02 - Areas/VVDEV/202405221159 Глеб - Обучение.md",
     "202405261311 Диплом - Материалы для документа.md",
-    "00 - MOC/Home.md",
     "02 - Areas/Self-Study",
     "202405270942.md",
     "202405291312.md",
