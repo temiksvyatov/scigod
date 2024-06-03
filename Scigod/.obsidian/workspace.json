@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/202405132036 Code Review Tips.md",
-                "mode": "preview",
+                "file": "202406031041.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -115,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "03 - Resources/202405132036 Code Review Tips.md"
+                "file": "202406031041.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 - Resources/202405132036 Code Review Tips.md",
+                "file": "202406031041.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 - Resources/202405132036 Code Review Tips.md",
+                "file": "202406031041.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 - Resources/202405132036 Code Review Tips.md"
+                "file": "202406031041.md"
               }
             }
           }
@@ -210,6 +210,8 @@
   },
   "active": "f4748645c2c6ded4",
   "lastOpenFiles": [
+    "03 - Resources/202405132036 Code Review Tips.md",
+    "202406031041.md",
     "00 - MOC/Home.md",
     "06 - Daily/202405140828.md",
     "06 - Daily/202405131042.md",
@@ -235,8 +237,6 @@
     "06 - Daily/202405151049.md",
     "99 - Meta/00 - Templates/202405151051% tp.date.now(dddd, MMMM Do, YYYY) %.md",
     "202405141405mark style=background FF5582A6;Problemmark.md",
-    "202405141708 Cricket API.md",
-    "03 - Resources/202405132036 Code Review Tips.md",
     "Untitled.canvas",
     "02 - Areas/VVDEV",
     "05 - Fleeting",
