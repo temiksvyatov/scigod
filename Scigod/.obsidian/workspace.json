@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202406032020 Scigod.md",
+                "file": "06 - Daily/202406040957.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "202406032020 Scigod.md"
+                "file": "06 - Daily/202406040957.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202406032020 Scigod.md",
+                "file": "06 - Daily/202406040957.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202406032020 Scigod.md",
+                "file": "06 - Daily/202406040957.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202406032020 Scigod.md"
+                "file": "06 - Daily/202406040957.md"
               }
             }
           }
@@ -210,8 +210,9 @@
   },
   "active": "f4748645c2c6ded4",
   "lastOpenFiles": [
-    "06 - Daily/202406031129.md",
     "202406032020 Scigod.md",
+    "06 - Daily/202406040957.md",
+    "06 - Daily/202406031129.md",
     "202406031041 Заметки по докладу.md",
     "03 - Resources/202405132036 Code Review Tips.md",
     "00 - MOC/Home.md",
@@ -236,7 +237,6 @@
     "06 - Daily/202405221357.md",
     "02 - Areas/VVDEV/202405161034.md",
     "99 - Meta/00 - Templates/Daily Log.md",
-    "06 - Daily/202405151049.md",
     "Untitled.canvas",
     "02 - Areas/VVDEV",
     "05 - Fleeting",
