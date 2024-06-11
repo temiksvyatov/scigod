@@ -105,6 +105,7 @@ session
 scale
 specs
 store
+service
 everything
 everyone
 encrypted
@@ -174,6 +175,7 @@ SERVER
 SQL
 SELECT
 Sledge
+Search
 date
 daily
 dddd
@@ -311,6 +313,7 @@ push
 pull
 psql
 permissions
+parser
 Obsidian
 ONLY
 One
@@ -388,6 +391,7 @@ FF
 Front
 Fixed
 Fans
+Friday
 when
 will
 written
@@ -426,6 +430,8 @@ Reviewer
 Research
 Registry
 RestAPI
+Racing
+Resolve
 your
 you
 updates
@@ -467,6 +473,7 @@ Gitlab
 GitLab
 GET
 Grafana
+Greyhound
 Video
 VVDEV
 VSCode
@@ -475,5 +482,6 @@ ENDPOINT
 Wednesday
 Winston
 What
+WHOIS
 UPDATE
 zero
