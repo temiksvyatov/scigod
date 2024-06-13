@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202405261331 Docker Compose - Replicas.md",
+                "file": "02 - Areas/VVDEV/202405270942.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "202405261331 Docker Compose - Replicas.md"
+                "file": "02 - Areas/VVDEV/202405270942.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202405261331 Docker Compose - Replicas.md",
+                "file": "02 - Areas/VVDEV/202405270942.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202405261331 Docker Compose - Replicas.md",
+                "file": "02 - Areas/VVDEV/202405270942.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202405261331 Docker Compose - Replicas.md"
+                "file": "02 - Areas/VVDEV/202405270942.md"
               }
             }
           }
@@ -210,6 +210,9 @@
   },
   "active": "d20cd8267ecb3705",
   "lastOpenFiles": [
+    "02 - Areas/VVDEV/202405271527 Оптимизация процессов.md",
+    "202406131151.md",
+    "202405261331 Docker Compose - Replicas.md",
     "202406031041 Заметки по докладу.md",
     "06 - Daily/202406040957.md",
     "202406032020 Scigod.md",
@@ -224,8 +227,6 @@
     "02 - Areas/VVDEV/202405141400 Pipeline - Yandex Registry Issues.md",
     "05 - Fleeting/202405131206 CUV - Sliders - Review.md",
     "05 - Fleeting/202405131154 Git - Stash.md",
-    "02 - Areas/VVDEV/202405271527 Оптимизация процессов.md",
-    "202405261331 Docker Compose - Replicas.md",
     "202405241045 Траты за лето - Рассчеты.md",
     "202405301103.md",
     "02 - Areas/VVDEV/202405221159 Глеб - Обучение.md",
@@ -236,7 +237,6 @@
     "06 - Daily/202405301103.md",
     "S3 issues.md",
     "02 - Areas/VVDEV/202405270942.md",
-    "02 - Areas/VVDEV/202405280949.md",
     "Untitled.canvas",
     "02 - Areas/VVDEV",
     "05 - Fleeting",
