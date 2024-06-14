@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "202406141129 MVE - Minimal Valuable Expirience",
+      "path": "202406141129 MVE - Minimal Valuable Expirience.md"
+    },
+    {
+      "basename": "202405261331 Docker Compose - Replicas",
+      "path": "202405261331 Docker Compose - Replicas.md"
+    },
+    {
+      "basename": "202406131151",
+      "path": "202406131151.md"
+    },
+    {
+      "basename": "Default Template",
+      "path": "99 - Meta/00 - Templates/Default Template.md"
+    },
+    {
       "basename": "202406131334 Принципы эффективного управления",
       "path": "202406131334 Принципы эффективного управления.md"
     },
@@ -11,14 +27,6 @@
     {
       "basename": "202405271527 Оптимизация процессов",
       "path": "02 - Areas/VVDEV/202405271527 Оптимизация процессов.md"
-    },
-    {
-      "basename": "202406131151",
-      "path": "202406131151.md"
-    },
-    {
-      "basename": "202405261331 Docker Compose - Replicas",
-      "path": "202405261331 Docker Compose - Replicas.md"
     },
     {
       "basename": "202406031041 Заметки по докладу",
@@ -87,10 +95,6 @@
     {
       "basename": "Daily Log",
       "path": "99 - Meta/00 - Templates/Daily Log.md"
-    },
-    {
-      "basename": "Default Template",
-      "path": "99 - Meta/00 - Templates/Default Template.md"
     }
   ],
   "omittedPaths": [],

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202406131334 Принципы эффективного управления.md",
+                "file": "202406141129 MVE - Minimal Valuable Expirience.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "202406131334 Принципы эффективного управления.md"
+                "file": "202406141129 MVE - Minimal Valuable Expirience.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202406131334 Принципы эффективного управления.md",
+                "file": "202406141129 MVE - Minimal Valuable Expirience.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202406131334 Принципы эффективного управления.md",
+                "file": "202406141129 MVE - Minimal Valuable Expirience.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202406131334 Принципы эффективного управления.md"
+                "file": "202406141129 MVE - Minimal Valuable Expirience.md"
               }
             }
           }
@@ -210,11 +210,13 @@
   },
   "active": "d20cd8267ecb3705",
   "lastOpenFiles": [
-    "02 - Areas/VVDEV/202405270942.md",
-    "202406131334 Принципы эффективного управления.md",
-    "02 - Areas/VVDEV/202405271527 Оптимизация процессов.md",
-    "202406131151.md",
     "202405261331 Docker Compose - Replicas.md",
+    "202406131151.md",
+    "99 - Meta/00 - Templates/Default Template.md",
+    "202406141129 MVE - Minimal Valuable Expirience.md",
+    "202406131334 Принципы эффективного управления.md",
+    "02 - Areas/VVDEV/202405270942.md",
+    "02 - Areas/VVDEV/202405271527 Оптимизация процессов.md",
     "202406031041 Заметки по докладу.md",
     "06 - Daily/202406040957.md",
     "202406032020 Scigod.md",
@@ -235,8 +237,6 @@
     "202405261311 Диплом - Материалы для документа.md",
     "02 - Areas/Self-Study",
     "202405270942.md",
-    "202405291312.md",
-    "06 - Daily/202405301103.md",
     "Untitled.canvas",
     "02 - Areas/VVDEV",
     "05 - Fleeting",

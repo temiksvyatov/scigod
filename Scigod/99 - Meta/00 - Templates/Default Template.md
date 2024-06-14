@@ -5,6 +5,5 @@ tags:
 cssclasses:
   - image-borders
   - neutral-pen-black
-  - page-manila
 ---
 # <% tp.file.cursor() %>

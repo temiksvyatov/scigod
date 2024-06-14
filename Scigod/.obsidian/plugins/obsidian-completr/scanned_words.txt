@@ -38,6 +38,7 @@ JSON
 Jest
 JSDoc
 June
+JavaScript
 to
 that
 tp
@@ -58,6 +59,7 @@ technical
 today
 try
 touch
+table
 be
 borders
 black
@@ -106,12 +108,14 @@ scale
 specs
 store
 service
+stack
 everything
 everyone
 encrypted
 explicit
 email
 error
+event
 is
 image
 id
@@ -268,10 +272,13 @@ left
 let
 ls
 login
+loop
 NOTE
 NOT
 Notion
 Note
+NoSQL
+Node
 file
 fix
 frictionless
@@ -316,6 +323,7 @@ pull
 psql
 permissions
 parser
+promises
 Obsidian
 ONLY
 One
@@ -435,6 +443,8 @@ Registry
 RestAPI
 Racing
 Resolve
+REST
+RESTful
 your
 you
 updates
@@ -450,6 +460,7 @@ ID
 India
 INSERT
 Itali
+IDE
 Better
 Back
 BBFABBA
@@ -457,6 +468,7 @@ happend
 height
 have
 home
+hash
 Ask
 Additional
 Add
@@ -469,7 +481,9 @@ Auto
 Admins
 questions
 quiz
+queue
 just
+js
 Git
 GuestAPI
 Gitlab
@@ -482,6 +496,7 @@ VVDEV
 VSCode
 England
 ENDPOINT
+Express
 Wednesday
 Winston
 What
