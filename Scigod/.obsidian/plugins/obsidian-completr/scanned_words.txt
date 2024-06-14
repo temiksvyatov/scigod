@@ -60,6 +60,7 @@ today
 try
 touch
 table
+type
 be
 borders
 black
@@ -182,6 +183,7 @@ SELECT
 Sledge
 Search
 SWOT
+Singleton
 date
 daily
 dddd
@@ -295,6 +297,7 @@ fabrics
 front
 find
 finance
+found
 pen
 page
 par
@@ -329,6 +332,7 @@ promises
 Obsidian
 ONLY
 One
+Observer
 Temp
 The
 Tip
@@ -404,6 +408,7 @@ Front
 Fixed
 Fans
 Friday
+Factory
 when
 will
 written
@@ -496,6 +501,7 @@ Greyhound
 Video
 VVDEV
 VSCode
+Vehicle
 England
 ENDPOINT
 Express

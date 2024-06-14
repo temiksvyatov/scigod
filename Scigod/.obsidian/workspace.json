@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "150084b5538d75dc",
+        "id": "6ee7d855f2493ca2",
         "type": "tabs",
         "children": [
           {
-            "id": "b9f6fbd6289fd68f",
+            "id": "500ca8763b5ef20f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -208,10 +208,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b9f6fbd6289fd68f",
+  "active": "500ca8763b5ef20f",
   "lastOpenFiles": [
-    "202406141129 MVE - Minimal Valuable Expirience.md",
     "202406141200 Паттерны проектирования в Typescirpt.md",
+    "202406141129 MVE - Minimal Valuable Expirience.md",
     "Pasted image 20240614114458.png",
     "202405261331 Docker Compose - Replicas.md",
     "202406131151.md",
