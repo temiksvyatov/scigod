@@ -229,6 +229,8 @@ Monday
 May
 MR
 Mocha
+MVP
+MVE
 YYYY
 YouTube
 You
