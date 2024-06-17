@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202406161042 Ген. арх. схем и метад..md",
+                "file": "02 - Areas/VVDEV/202406171044.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "202406161042 Ген. арх. схем и метад..md"
+                "file": "02 - Areas/VVDEV/202406171044.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202406161042 Ген. арх. схем и метад..md",
+                "file": "02 - Areas/VVDEV/202406171044.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202406161042 Ген. арх. схем и метад..md",
+                "file": "02 - Areas/VVDEV/202406171044.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202406161042 Ген. арх. схем и метад..md"
+                "file": "02 - Areas/VVDEV/202406171044.md"
               }
             }
           }
@@ -211,8 +211,9 @@
   },
   "active": "500ca8763b5ef20f",
   "lastOpenFiles": [
-    "202406141200 Паттерны проектирования в Typescirpt.md",
     "202406161042 Ген. арх. схем и метад..md",
+    "02 - Areas/VVDEV/202406171044.md",
+    "202406141200 Паттерны проектирования в Typescirpt.md",
     "202406141129 MVE - Minimal Valuable Expirience.md",
     "Pasted image 20240614114458.png",
     "202405261331 Docker Compose - Replicas.md",
@@ -237,7 +238,6 @@
     "05 - Fleeting/202405131154 Git - Stash.md",
     "202405241045 Траты за лето - Рассчеты.md",
     "202405301103.md",
-    "02 - Areas/VVDEV/202405221159 Глеб - Обучение.md",
     "02 - Areas/Self-Study",
     "Untitled.canvas",
     "02 - Areas/VVDEV",
