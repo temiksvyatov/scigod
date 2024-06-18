@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/VVDEV/202406181955 Леся Дудченко.md",
+                "file": "02 - Areas/VVDEV/202405221357.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02 - Areas/VVDEV/202406181955 Леся Дудченко.md"
+                "file": "02 - Areas/VVDEV/202405221357.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/VVDEV/202406181955 Леся Дудченко.md",
+                "file": "02 - Areas/VVDEV/202405221357.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Areas/VVDEV/202406181955 Леся Дудченко.md",
+                "file": "02 - Areas/VVDEV/202405221357.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Areas/VVDEV/202406181955 Леся Дудченко.md"
+                "file": "02 - Areas/VVDEV/202405221357.md"
               }
             }
           }
@@ -210,8 +210,10 @@
   },
   "active": "1d15783d63d23112",
   "lastOpenFiles": [
-    "Pasted image 20240618214438.png",
+    "99 - Meta/00 - Templates/Daily Log.md",
+    "99 - Meta/00 - Templates/Default Template.md",
     "02 - Areas/VVDEV/202406181955 Леся Дудченко.md",
+    "Pasted image 20240618214438.png",
     "202406171147.md",
     "02 - Areas/VVDEV/202406171044.md",
     "202406161042 Ген. арх. схем и метад..md",
@@ -220,7 +222,6 @@
     "Pasted image 20240614114458.png",
     "202405261331 Docker Compose - Replicas.md",
     "202406131151.md",
-    "99 - Meta/00 - Templates/Default Template.md",
     "202406131334 Принципы эффективного управления.md",
     "02 - Areas/VVDEV/202405270942.md",
     "02 - Areas/VVDEV/202405271527 Оптимизация процессов.md",

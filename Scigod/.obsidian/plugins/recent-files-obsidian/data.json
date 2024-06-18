@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "202405221357",
+      "path": "02 - Areas/VVDEV/202405221357.md"
+    },
+    {
+      "basename": "Daily Log",
+      "path": "99 - Meta/00 - Templates/Daily Log.md"
+    },
+    {
+      "basename": "Default Template",
+      "path": "99 - Meta/00 - Templates/Default Template.md"
+    },
+    {
       "basename": "202406181955 Леся Дудченко",
       "path": "02 - Areas/VVDEV/202406181955 Леся Дудченко.md"
     },
@@ -31,10 +43,6 @@
     {
       "basename": "202406131151",
       "path": "202406131151.md"
-    },
-    {
-      "basename": "Default Template",
-      "path": "99 - Meta/00 - Templates/Default Template.md"
     },
     {
       "basename": "202406131334 Принципы эффективного управления",
@@ -105,16 +113,8 @@
       "path": "02 - Areas/VVDEV/202405280949.md"
     },
     {
-      "basename": "202405221357",
-      "path": "06 - Daily/202405221357.md"
-    },
-    {
       "basename": "202405161034",
       "path": "02 - Areas/VVDEV/202405161034.md"
-    },
-    {
-      "basename": "Daily Log",
-      "path": "99 - Meta/00 - Templates/Daily Log.md"
     }
   ],
   "omittedPaths": [],

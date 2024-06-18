@@ -215,6 +215,7 @@ not
 neks
 name
 names
+nd
 DD
 Daily
 DAILY
@@ -329,6 +330,7 @@ psql
 permissions
 parser
 promises
+placements
 Obsidian
 ONLY
 One
@@ -409,6 +411,7 @@ Fixed
 Fans
 Friday
 Factory
+Finish
 when
 will
 written
