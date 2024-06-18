@@ -85,8 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "3ab923e6dc813e33",
@@ -211,6 +210,7 @@
   },
   "active": "1d15783d63d23112",
   "lastOpenFiles": [
+    "Pasted image 20240618214438.png",
     "02 - Areas/VVDEV/202406181955 Леся Дудченко.md",
     "202406171147.md",
     "02 - Areas/VVDEV/202406171044.md",
@@ -237,7 +237,6 @@
     "06 - Daily/202405131042.md",
     "02 - Areas/VVDEV/202405141400 Pipeline - Yandex Registry Issues.md",
     "05 - Fleeting/202405131206 CUV - Sliders - Review.md",
-    "05 - Fleeting/202405131154 Git - Stash.md",
     "02 - Areas/Self-Study",
     "Untitled.canvas",
     "02 - Areas/VVDEV",
