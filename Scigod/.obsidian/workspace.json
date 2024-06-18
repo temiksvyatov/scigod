@@ -11,8 +11,12 @@
             "id": "1d15783d63d23112",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "02 - Areas/VVDEV/202406181955 Леся Дудченко.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -111,7 +115,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {}
+              "state": {
+                "file": "02 - Areas/VVDEV/202406181955 Леся Дудченко.md"
+              }
             }
           },
           {
@@ -143,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "02 - Areas/VVDEV/202406181955 Леся Дудченко.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,6 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 - Areas/VVDEV/202406181955 Леся Дудченко.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +177,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "02 - Areas/VVDEV/202406181955 Леся Дудченко.md"
+              }
             }
           }
         ],
@@ -201,6 +211,7 @@
   },
   "active": "1d15783d63d23112",
   "lastOpenFiles": [
+    "02 - Areas/VVDEV/202406181955 Леся Дудченко.md",
     "202406171147.md",
     "02 - Areas/VVDEV/202406171044.md",
     "202406161042 Ген. арх. схем и метад..md",
@@ -227,7 +238,6 @@
     "02 - Areas/VVDEV/202405141400 Pipeline - Yandex Registry Issues.md",
     "05 - Fleeting/202405131206 CUV - Sliders - Review.md",
     "05 - Fleeting/202405131154 Git - Stash.md",
-    "202405241045 Траты за лето - Рассчеты.md",
     "02 - Areas/Self-Study",
     "Untitled.canvas",
     "02 - Areas/VVDEV",
