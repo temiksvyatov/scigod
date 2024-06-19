@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/VVDEV/202406191421.md",
+                "file": "202406191550.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02 - Areas/VVDEV/202406191421.md"
+                "file": "202406191550.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/VVDEV/202406191421.md",
+                "file": "202406191550.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Areas/VVDEV/202406191421.md",
+                "file": "202406191550.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Areas/VVDEV/202406191421.md"
+                "file": "202406191550.md"
               }
             }
           }
@@ -210,8 +210,9 @@
   },
   "active": "1d15783d63d23112",
   "lastOpenFiles": [
-    "06 - Daily/202406040957.md",
     "02 - Areas/VVDEV/202406191421.md",
+    "202406191550.md",
+    "06 - Daily/202406040957.md",
     "202406191233 Аудит Flang.md",
     "02 - Areas/VVDEV/202405221357.md",
     "99 - Meta/00 - Templates/Daily Log.md",
@@ -237,7 +238,6 @@
     "02 - Areas/VVDEV/202406071043.md",
     "06 - Daily/202406031129.md",
     "03 - Resources/202405132036 Code Review Tips.md",
-    "06 - Daily/202405140828.md",
     "02 - Areas/Self-Study",
     "Untitled.canvas",
     "02 - Areas/VVDEV",
