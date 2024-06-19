@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/VVDEV/202405221357.md",
+                "file": "202406191233 Аудит Flang.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02 - Areas/VVDEV/202405221357.md"
+                "file": "202406191233 Аудит Flang.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 - Areas/VVDEV/202405221357.md",
+                "file": "202406191233 Аудит Flang.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 - Areas/VVDEV/202405221357.md",
+                "file": "202406191233 Аудит Flang.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Areas/VVDEV/202405221357.md"
+                "file": "202406191233 Аудит Flang.md"
               }
             }
           }
@@ -210,6 +210,8 @@
   },
   "active": "1d15783d63d23112",
   "lastOpenFiles": [
+    "02 - Areas/VVDEV/202405221357.md",
+    "202406191233 Аудит Flang.md",
     "99 - Meta/00 - Templates/Daily Log.md",
     "99 - Meta/00 - Templates/Default Template.md",
     "02 - Areas/VVDEV/202406181955 Леся Дудченко.md",
@@ -236,8 +238,6 @@
     "03 - Resources/202405132036 Code Review Tips.md",
     "06 - Daily/202405140828.md",
     "06 - Daily/202405131042.md",
-    "02 - Areas/VVDEV/202405141400 Pipeline - Yandex Registry Issues.md",
-    "05 - Fleeting/202405131206 CUV - Sliders - Review.md",
     "02 - Areas/Self-Study",
     "Untitled.canvas",
     "02 - Areas/VVDEV",
