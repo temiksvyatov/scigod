@@ -300,6 +300,7 @@ Yy
 YL
 YA
 Yzku
+YADRO
 HH
 Hello
 HTTP
@@ -421,6 +422,7 @@ OR
 Oz
 ON
 Oud
+OpenVINO
 Temp
 The
 Tip
@@ -499,6 +501,7 @@ Coaches
 COjB
 Container
 Component
+CMake
 of
 or
 on
@@ -565,6 +568,7 @@ Pa
 PL
 Pn
 PHP
+Python
 keep
 knows
 kill
@@ -581,6 +585,8 @@ REe
 RP
 Rx
 RRe
+RISCV
+RISC
 your
 you
 yX
@@ -655,6 +661,7 @@ Greyhound
 Gm
 GUV
 GG
+GitHub
 Video
 VVDEV
 VSCode
@@ -680,6 +687,7 @@ What
 WHOIS
 Wa
 WV
+Windows
 UPDATE
 UW
 Uw
