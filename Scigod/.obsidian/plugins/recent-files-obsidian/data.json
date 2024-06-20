@@ -1,24 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "202406191421",
+      "path": "02 - Areas/VVDEV/202406191421.md"
+    },
+    {
       "basename": "202406200932 Андрей Авсянский",
       "path": "02 - Areas/VVDEV/202406200932 Андрей Авсянский.md"
     },
     {
-      "basename": "202406191550 Скрипт по собеседованиям",
-      "path": "202406191550 Скрипт по собеседованиям.md"
+      "basename": "202405131042",
+      "path": "06 - Daily/202405131042.md"
     },
     {
-      "basename": "202406191421",
-      "path": "02 - Areas/VVDEV/202406191421.md"
+      "basename": "202405301103",
+      "path": "06 - Daily/202405301103.md"
+    },
+    {
+      "basename": "202406031129",
+      "path": "06 - Daily/202406031129.md"
     },
     {
       "basename": "202406040957",
       "path": "06 - Daily/202406040957.md"
     },
     {
+      "basename": "202405261331 Docker Compose - Replicas",
+      "path": "202405261331 Docker Compose - Replicas.md"
+    },
+    {
+      "basename": "202406131151",
+      "path": "202406131151.md"
+    },
+    {
+      "basename": "202406131334 Принципы эффективного управления",
+      "path": "202406131334 Принципы эффективного управления.md"
+    },
+    {
+      "basename": "202406141129 MVE - Minimal Valuable Expirience",
+      "path": "202406141129 MVE - Minimal Valuable Expirience.md"
+    },
+    {
+      "basename": "202406141200 Паттерны проектирования в Typescirpt",
+      "path": "202406141200 Паттерны проектирования в Typescirpt.md"
+    },
+    {
+      "basename": "202406161042 Ген. арх. схем и метад.",
+      "path": "202406161042 Ген. арх. схем и метад..md"
+    },
+    {
+      "basename": "202406171147",
+      "path": "202406171147.md"
+    },
+    {
       "basename": "202406191233 Аудит Flang",
       "path": "202406191233 Аудит Flang.md"
+    },
+    {
+      "basename": "202406191550 Скрипт по собеседованиям",
+      "path": "202406191550 Скрипт по собеседованиям.md"
+    },
+    {
+      "basename": "Pasted image 20240618214438",
+      "path": "99 - Meta/11 - Files/Pasted image 20240618214438.png"
     },
     {
       "basename": "202405221357",
@@ -37,36 +81,8 @@
       "path": "02 - Areas/VVDEV/202406181955 Леся Дудченко.md"
     },
     {
-      "basename": "202406171147",
-      "path": "202406171147.md"
-    },
-    {
       "basename": "202406171044",
       "path": "02 - Areas/VVDEV/202406171044.md"
-    },
-    {
-      "basename": "202406161042 Ген. арх. схем и метад.",
-      "path": "202406161042 Ген. арх. схем и метад..md"
-    },
-    {
-      "basename": "202406141200 Паттерны проектирования в Typescirpt",
-      "path": "202406141200 Паттерны проектирования в Typescirpt.md"
-    },
-    {
-      "basename": "202406141129 MVE - Minimal Valuable Expirience",
-      "path": "202406141129 MVE - Minimal Valuable Expirience.md"
-    },
-    {
-      "basename": "202405261331 Docker Compose - Replicas",
-      "path": "202405261331 Docker Compose - Replicas.md"
-    },
-    {
-      "basename": "202406131151",
-      "path": "202406131151.md"
-    },
-    {
-      "basename": "202406131334 Принципы эффективного управления",
-      "path": "202406131334 Принципы эффективного управления.md"
     },
     {
       "basename": "202405270942",
@@ -89,20 +105,12 @@
       "path": "02 - Areas/VVDEV/202406071043.md"
     },
     {
-      "basename": "202406031129",
-      "path": "06 - Daily/202406031129.md"
-    },
-    {
       "basename": "202405132036 Code Review Tips",
       "path": "03 - Resources/202405132036 Code Review Tips.md"
     },
     {
       "basename": "202405140828",
       "path": "06 - Daily/202405140828.md"
-    },
-    {
-      "basename": "202405131042",
-      "path": "06 - Daily/202405131042.md"
     },
     {
       "basename": "202405141400 Pipeline - Yandex Registry Issues",
@@ -119,10 +127,6 @@
     {
       "basename": "202405221159 Глеб - Обучение",
       "path": "02 - Areas/VVDEV/202405221159 Глеб - Обучение.md"
-    },
-    {
-      "basename": "202405301103",
-      "path": "06 - Daily/202405301103.md"
     },
     {
       "basename": "202405280949",
