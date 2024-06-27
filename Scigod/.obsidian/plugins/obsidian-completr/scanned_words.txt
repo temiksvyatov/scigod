@@ -411,6 +411,7 @@ placements
 pG
 pVe
 profile
+project
 Obsidian
 ONLY
 One
